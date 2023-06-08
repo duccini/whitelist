@@ -1,2 +1,2 @@
 # whitelist
-NFT Whitelist DApp
+Whitelist DApp NFT Collection
